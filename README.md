@@ -1,13 +1,10 @@
-sélectionnés# Template pour : Quêtes  PHP Cookies & Sessions
+Quêtes  PHP Cookies & Sessions
 
-Ce Template html va te permettre de réaliser ta quête sur la gestion des cookies et des sessions avec PHP.
+Création d'une page de vente de cookies.
+  - Utilisation des sessions / cookies :
+      - Sessions : pour faire passer les données d'une page à l'autre sur le site.
+      - Cookies : pour l'identification. 
+            - Possibilité d'utiliser le site sans être logué, sauf sur la partie "validation de la commande"
+            - Si la personne n'est pas identifiée, celle-ci est est automatiquement revoyée sur la page de login.
+            - Creation d'un logout.
 
-Sont inclus :
-
-* la page de connexion,
-* la page des produits disponibles a l'achat,
-* la page panier, affichant à partir des cookies les produits sélectionnés par l'utilisateur.
-
-Tu n'as que du script PHP à fournir !
-
-Après, si l'envie te prend de refondre le CSS, nous ne ferons rien pour t'en empêcher !
